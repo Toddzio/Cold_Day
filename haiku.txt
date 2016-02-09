@@ -1,1 +1,2 @@
 The glory of Java
+The functionality of Git.
